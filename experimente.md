@@ -83,6 +83,8 @@ lassen sich nur wenige Experimente im Hörsaalmaßstab realisieren.
 
 ## Optik
 
+![Kapiteltitelbild: Farbiger Bismutkristall](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Bi-crystal-white-background.jpg/584px-Bi-crystal-white-background.jpg "[Quelle: [Bi-crystal.jpg](https://commons.wikimedia.org/wiki/File:Bi-crystal.jpg): [Alchemist-hp](https://commons.wikimedia.org/wiki/User:Alchemist-hp) ([www.pse-mendelejew.de](http://www.pse-mendelejew.de)) + [Richard Bartz](https://commons.wikimedia.org/wiki/User:Richard_Bartz); derivative work: [Matthias M.](https://commons.wikimedia.org/wiki/User:Matthias_M.), [Bi-crystal-white-background](https://commons.wikimedia.org/wiki/File:Bi-crystal-white-background.jpg), [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/legalcode) via Wikimedia Commons]")
+
 ### Bestimmung des Brechungsindexes
 Die Phasengeschwindigkeit, mit der sich das Licht ausbreitet, ist abhängig vom
 Medium, in dem diese Ausbreitung stattfindet. Im Vakuum beträgt sie
@@ -152,27 +154,40 @@ Glas (Boden des Standzylinders) und Luft bis zur Reflektorscheibe und durch
 dieselben Medien zurück in den Sensor. Dieser Laufweg des Lichts lässt sich in
 zwei Anteile aufspalten:
 
-1.  $s_\mathrm W=2\Delta h$: Die Strecke, um die der Wasserspiegel steigt. Zu Beginn legt das Licht diesen Weg durch Luft zurück, am Ende des Experiments durch Wasser. Da das Licht den Standzylinder zweimal passiert (Hin- und Rückweg) ist die Höhendiffernz doppelt zu berücksichtigen.
+1.  $s_\mathrm W=2\Delta h$: Die Strecke, um die der Wasserspiegel steigt. Zu
+    Beginn legt das Licht diesen Weg durch Luft zurück, am Ende des Experiments
+    durch Wasser. Da das Licht den Standzylinder zweimal passiert (Hin- und
+    Rückweg) ist die Höhendiffernz doppelt zu berücksichtigen.
 
-2.  $s_\mathrm R$: Die gesamte restliche Strecke durch Glas, Luft und die Anfangsmenge an Wasser. Für diese Strecke tritt keine Veränderung ein.
+2.  $s_\mathrm R$: Die gesamte restliche Strecke durch Glas, Luft und die
+    Anfangsmenge an Wasser. Für diese Strecke tritt keine Veränderung ein.
 
 Der gesamte zurückgelegte Weg ist dann $s_\mathrm{ges}=s_\mathrm W + s_\mathrm R$.
 
-Die Laufzeit des Lichts lässt sich in analoger Weise in die beiden Anteile $t_\mathrm W$ und $t_\mathrm R$ aufteilen: $t_\mathrm{ges}=t_\mathrm W +t_\mathrm R$.
+Die Laufzeit des Lichts lässt sich in analoger Weise in die beiden Anteile
+$t_\mathrm W$ und $t_\mathrm R$ aufteilen:
+$t_\mathrm{ges}=t_\mathrm W +t_\mathrm R$.
 
 Zu Beginn des Experiments:
 
 $$t_1= t_\mathrm{W(Luft)}+t_\mathrm R$$
+
 und am Ende des Experiments:
 
 $$t_2= t_\mathrm{W(Wasser)}+t_\mathrm R$$
 
 Für die Zeitdifferenz
 
-$$t_2-t_1= t_\mathrm{W(Wasser)}+t_\mathrm R-(t_\mathrm{W(Luft)}+t_\mathrm R)=t_\mathrm{W(Wasser)}- t_\mathrm{W(Luft)}$$
-ist dabei nur die Teilstrecke $s_\mathrm W$ relevant. Für deren zugehörige Laufzeit gilt am Anfang des Experiments:
+$$\begin{aligned}
+t_2-t_1 & = t_\mathrm{W(Wasser)}+t_\mathrm R-(t_\mathrm{W(Luft)}+t_\mathrm R) \\
+& =t_\mathrm{W(Wasser)}- t_\mathrm{W(Luft)}
+\end{aligned}$$
+
+ist dabei nur die Teilstrecke $s_\mathrm W$ relevant. Für deren zugehörige
+Laufzeit gilt am Anfang des Experiments:
 
 $$t_\mathrm{W(Luft)}=\frac{s_\mathrm W}{c_0} \, ,$$
+
 wobei für die Ausbreitungsgeschwindigkeit in Luft die Vakuumlichtgeschwindigkeit
 angesetzt wurde ($n_\mathrm{Luft} =1$). Am Ende des Experiments gilt:
 
@@ -180,7 +195,11 @@ $$t_\mathrm{W(Wasser)}=\frac{s_\mathrm W}{c_\mathrm W}=\frac{s_\mathrm W}{c_0}n_
 
 Einsetzen in die Formel für die Zeitdifferenz:
 
-$$t_2 - t_1 =\frac{s_\mathrm W}{c_0}n_\mathrm W - \frac{s_\mathrm W}{c_0} = \frac{s_\mathrm W}{c_0}\left( n_\mathrm W -1 \right) = \frac{2\Delta h}{c_0}\left( n_\mathrm W -1 \right)$$
+$$\begin{aligned}
+t_2 - t_1 & =\frac{s_\mathrm W}{c_0}n_\mathrm W - \frac{s_\mathrm W}{c_0} \\
+& = \frac{s_\mathrm W}{c_0}\left( n_\mathrm W -1 \right) \\
+& = \frac{2\Delta h}{c_0}\left( n_\mathrm W -1 \right)
+\end{aligned}$$
 
 Umstellen liefert die Formel für die Brechzahl:
 
