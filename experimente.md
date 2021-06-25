@@ -235,8 +235,11 @@ sich. Verdeutlicht wird dies im Vorlesungsexperiment durch den Nachweis der
 Interferenz einzelnen Photonen.
 
 #### Durchführung
-Voraussetzung für diesen Versuch ist, dass überhaupt einzelne Photonen
-detektiert werden können. Dies geschieht mittels
+Durchgeführt wird dieser Versuch mit dem Komplettaufbau „Two-Slit Interference,
+One Photon at a Time“ der Firma TeachSpin.
+
+Um die Interferenz einzelner Photonen überhaupt nachweisen zu können, müssen
+einzelne Photonen detektiert werden. Dies geschieht mittels eines
 Sekundärelektronenvervielfachers (englisch: photo multiplier), der aus einem
 auftreffenden Photon einen messbaren Spannungspuls generiert.
 
@@ -263,7 +266,7 @@ Hinter diesem befindet sich eine Blende als „Spaltblocker“, mit der – je n
 Position – einer der beiden Spalte abgedeckt werden kann. Am „hinteren“ Ende der
 Apparatur befindet sich schließlich der oben bereits beschriebene Detektor.
 Davor ist eine verschiebbare Spaltblende angeordnet, mit deren Hilfe die Position
-ausgewählt wird, an der die auftreffende Photonenzahl (=Lichtintensität)
+ausgewählt wird, an der die auftreffende Photonenzahl (Lichtintensität)
 gemessen werden soll.
 
 Im Vorlesungsversuch wird nur an zwei im Vorfeld bestimmten Detektorpositionen
@@ -304,16 +307,18 @@ Photonenzahlen registriert:
 Die Messergebnisse zeigen ein grundlegend unterschiedliches Verhalten an den
 beiden Detektorpositionen:
 *  In Position I führt die Überlagerung des Signals beider Spalte zu einer
-   Verstärkung des Photonenzählrate die deutlich über die Summe der Zählraten
+   Verstärkung des Photonenzählrate, die deutlich über die Summe der Zählraten
    beider Einzelspalte hinausgeht.
-*  In Position II hingegen resultiert die Öffnung beider Spalte zu Verrringerung
-   der Zählrate im Vergleich zu den Einzelspalten.
+*  In Position II hingegen resultiert die Öffnung beider Spalte in einer
+   Verrringerung der Zählrate im Vergleich zu den Einzelspalten.
 
 Beide Erscheinungen lassen sich nur durch Interferenz erklären, die im
-Maximum (Position I) zur Verstärkung, im Minimum (Position II) hingegen zu einer
-(nahezu vollständigen) Auslöschung führt. Da sich entsprechend der anfänglichen
-Ausführungen stets höchstens ein Photon in der Apparatur befindet, kann dieser
-Effekt nicht durch die Überlagerung mehrerer Photonen erklärt werden. Vielmehr
-interferiert das einzelne Photon mit sich selbst. Es folgt daraus, dass auch
-das oft als „Teilchen“ aufgefasste Photon den vollständigen Wellencharakter in
-sich trägt.
+Maximum zur Verstärkung, im Minimum hingegen zu einer (nahezu vollständigen)
+Auslöschung führt. Die beiden Detektorpositionen wurden bei der Justage des
+Versuchsaufbaus so bestimmt, dass sie im Nullten Maximum (Position I)
+beziehungsweise im ersten Minimum (Position II) liegen. Da sich entsprechend der
+anfänglichen Ausführungen stets höchstens ein Photon in der Apparatur befindet,
+kann dieser Effekt nicht durch die Überlagerung mehrerer Photonen erklärt
+werden. Vielmehr interferiert das einzelne Photon mit sich selbst. Es folgt
+daraus, dass auch das oft als Teilchen aufgefasste Photon den vollständigen
+Wellencharakter in sich trägt.
