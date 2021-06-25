@@ -214,3 +214,106 @@ II“ am 11.06.2021 wurden folgende Werte für diesen Versuch bestimmt:
 * $\Delta h = 30~\mathrm{cm}$
 
 Daraus ergibt sich ein Brechungsindex von $n_\mathrm W = 1{,}36$.
+
+### Einzelphotoneninterferenz
+
+Das Licht ist ein Quantenphänomen, das die Eigenschaften einer Welle und eines
+Teilchens in sich vereint. Klassisch schließen sich Wellen- und
+Teilchencharakter gegenseitig aus. Der Welle-Teilchen-Dualismus, wie ihn die
+Quantenoptik kennt, ist mit der klassischen Physik nicht vereinbar.
+Aus diesem Grund entzieht sich auch das Licht in seiner Gesamtheit unserer
+Vorstellung.
+
+Ungeachtet dessen lässt sich das Licht durch Anwendung des Wellen- oder
+Teilchenmodells physikalisch sehr genau beschreiben. Die Frage, welches dieser
+Modell anzuwenden ist, wird beantwortet durch den Charakter, den das Licht in
+dem zu beschreibenden Sachverhalt zeigt. Eine scharfe Trennung zwischen
+Welleneigenschaften (verkörpert eben durch eine Lichtwelle) und
+Teilcheneigenschaften (verkörpert durch das Photon) ist dabei nicht möglich.
+Auch das einzelne Photon trägt den vollständigen Wellencharakter des Lichts in
+sich. Verdeutlicht wird dies im Vorlesungsexperiment durch den Nachweis der
+Interferenz einzelnen Photonen.
+
+#### Durchführung
+Voraussetzung für diesen Versuch ist, dass überhaupt einzelne Photonen
+detektiert werden können. Dies geschieht mittels
+Sekundärelektronenvervielfachers (englisch: photo multiplier), der aus einem
+auftreffenden Photon einen messbaren Spannungspuls generiert.
+
+Ferner müssen in der Apparatur einzelne Photonen erzeugt werden.
+Grundsätzlich emittiert jede Lichtquelle eine Abfolge einzelner Photonen. Bei
+hohen Lichtintensitäten kann dieser Photonenstrom als kontinuierlich angesehen
+werden. Durch Verringerung der Intensität wird der (mittlere) zeitliche Abstand
+zwischen zwei aufeinanderfolgenden Photonen vergrößert. Folglich kann eine
+gewöhnliche Lichtquelle mit sehr geringer Intensität als Einzelphotonenquelle
+aufgefasst werden. In der vorliegenden Apparatur beträgt der Lichtweg von der
+Quelle bis zum Detektor $~\approx 1~\mathrm m$. Ein Photon legt diese Strecke in
+$\approx 3~\mathrm{ns}$ zurück. Ist die mittlere Wartezeit zwischen zwei
+emittierten Photonen groß im Vergleich zu dieser Laufzeit, kann davon
+ausgegangen werden, dass sich stets höchstens ein Photon in der Anlage befindet.
+
+Im Experiment wird die hierfür benötigte geringe Lichtintensität durch eine
+Glühlampe erreicht, die mit sehr geringer Spannung betrieben wird. Das Licht
+passiert anschließend einen monochromatischen Grünfilter, der die Intensität
+nochmals reduziert. Außerdem ist die Beschränkung auf eine einzelne Wellenlänge
+Voraussetzung für die Beobachtung des Interferenzmusters.
+
+Das so erzeugte und gefilterte Licht trifft anschließend auf einen Doppelspalt.
+Hinter diesem befindet sich eine Blende als „Spaltblocker“, mit der – je nach
+Position – einer der beiden Spalte abgedeckt werden kann. Am „hinteren“ Ende der
+Apparatur befindet sich schließlich der oben bereits beschriebene Detektor.
+Davor ist eine verschiebbare Spaltblende angeordnet, mit deren Hilfe die Position
+ausgewählt wird, an der die auftreffende Photonenzahl (=Lichtintensität)
+gemessen werden soll.
+
+Im Vorlesungsversuch wird nur an zwei im Vorfeld bestimmten Detektorpositionen
+gemessen, um den zeitlich Rahmen innerhalb der Vorlesung nicht zu sprengen. Für
+jede Detektorposition werden drei Messungen mit unterschiedlichen Einstellungen
+des Spaltblockers vorgenommen:
+
+1. Nur der linke Spalt ist freigegeben, der rechte Spalt ist verdeckt.
+2. Beide Spalte sind freigegeben.
+3. Nur der rechte Spalt ist freigegeben, der linke Spalt ist verdeckt.
+
+Bei jeder Messung wird über eine Zeit von 10 Sekunden die Anzahl der ankommenden
+Photonen registriert. Für die Messungen muss die gesamte Apparatur lichtdicht
+verschlossen sein, da jegliches Streulicht auf dem Detektor die zu messende
+Intensität übersteigen würde.
+
+#### Ergebnisse vom 27.01.2020
+In der Vorlesung „Physik (mit Experimenten)“ am 27. Januar 2020 wurden folgende
+Photonenzahlen registriert:
+
+*  Detektorposition I
+
+| offene Spalte | registrierte Photonen |
+| ------------- | ---------------------:|
+| links         | 275                   |
+| beide         | 983                   |
+| rechts        | 203                   |
+
+*  Detektorposition II
+
+| offene Spalte | registrierte Photonen |
+| ------------- | ---------------------:|
+| links         | 343                   |
+| beide         | 48                    |
+| rechts        | 202                   |
+
+#### Diskussion
+Die Messergebnisse zeigen ein grundlegend unterschiedliches Verhalten an den
+beiden Detektorpositionen:
+*  In Position I führt die Überlagerung des Signals beider Spalte zu einer
+   Verstärkung des Photonenzählrate die deutlich über die Summe der Zählraten
+   beider Einzelspalte hinausgeht.
+*  In Position II hingegen resultiert die Öffnung beider Spalte zu Verrringerung
+   der Zählrate im Vergleich zu den Einzelspalten.
+
+Beide Erscheinungen lassen sich nur durch Interferenz erklären, die im
+Maximum (Position I) zur Verstärkung, im Minimum (Position II) hingegen zu einer
+(nahezu vollständigen) Auslöschung führt. Da sich entsprechend der anfänglichen
+Ausführungen stets höchstens ein Photon in der Apparatur befindet, kann dieser
+Effekt nicht durch die Überlagerung mehrerer Photonen erklärt werden. Vielmehr
+interferiert das einzelne Photon mit sich selbst. Es folgt daraus, dass auch
+das oft als „Teilchen“ aufgefasste Photon den vollständigen Wellencharakter in
+sich trägt.
