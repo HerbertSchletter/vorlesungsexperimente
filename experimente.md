@@ -322,3 +322,109 @@ kann dieser Effekt nicht durch die Überlagerung mehrerer Photonen erklärt
 werden. Vielmehr interferiert das einzelne Photon mit sich selbst. Es folgt
 daraus, dass auch das oft als Teilchen aufgefasste Photon den vollständigen
 Wellencharakter in sich trägt.
+
+## Atomphysik
+
+### Franck<!-- style ="font-variant: small-caps;" -->-Hertz<!-- style ="font-variant: small-caps;" -->-Versuch
+
+Dieser nach James<!-- style ="font-variant: small-caps;" -->
+Franck<!-- style ="font-variant: small-caps;" --> und
+Gustav<!-- style ="font-variant: small-caps;" --> Hertz<!-- style ="font-variant: small-caps;" -->
+benannte Versuch untersucht die Anregung von Atomen durch Elektronenstoß. In
+einem Gas unter geringem Druck treffen beschleunigte Elektronen auf die
+Gasatome. Eine Anregung dieser Atome in ein höheres Energieniveau ist dabei nur
+möglich, wenn die (kinetische) Energie der Elektronen der erforderlichen
+Anregungsenergie entspricht oder diese übersteigt.
+
+#### Durchführung
+
+Für diesen Versuch wird eine evakuierte Glasröhre verwendet, die
+mit einer geringen Menge eines Gases gefüllt ist. In den ursprünglichen
+Experimenten verwendeten Franck und Hertz Quecksilberdampf; in der Vorlesung
+wird eine Röhre mit Neonfüllung verwendet. Dies vereinfacht einerseits die
+Durchführung (da die Röhre nicht aufgeheizt werden muss), andererseits lassen
+sich Anregungszonen in der Röhre durch das charakteristische orange-rote
+Leuchten der Neonatome erkennen (siehe Abbildung).
+
+![Leuchtzonen in einer neongefüllten Franck-Hertz-Röhre](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Franck-Hertz-Neon-3.png/279px-Franck-Hertz-Neon-3.png "Blick in eine in Betrieb befindliche Franck-Hertz-Röhre mit Neon-Füllung: Die Anregungszonen sind zwischen dem Steuergitter (unten) und der Anode (oben) durch ihr charakteristisches orange-rotes Leuchten erkennbar. [Quelle: [Infoczo](https://commons.wikimedia.org/wiki/User:Infoczo), [Franck-Hertz-Neon-3](https://commons.wikimedia.org/wiki/File:Franck-Hertz-Neon-3.png), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode) via Wikimedia Commons]")
+
+Eingeschmolzen in diese
+Glasröhre sind vier Elektroden (siehe folgende Abbildung): Die Kathode (K) wird
+durch die angelegte Heizspannung $U_\mathrm H$ zum Glühen gebracht und emittiert
+so Elektronen, die durch die Beschleunigungsspannung $U_\mathrm B$ zur Anode (A)
+hin beschleunigt werden. Kurz hinter der Kathode befindet sich mit dem
+Steuergitter (SG) eine zusätzliche Elektrode, die den Stromfluss steuert, den
+eigentlichen physikalischen Effekt jedoch nicht beeinflusst. Daher wird dieses
+Gitter im Folgenden nicht weiter betrachtet. Die Anode ist als Netz ausgeführt,
+sodass die Elektronen diese passieren können und danach auf die
+Auffängerelektrode (E) treffen. Zwischen Anode und Auffängerelektrode liegt die
+Gegenspannung $U_\mathrm G$ an, die die Elektronen abbremst.
+
+![Schematischer Aufbau einer Franck-Hertz-Röhre](https://upload.wikimedia.org/wikipedia/commons/2/2b/FH_R%C3%B6hre_Ne.svg "Schematischer Aufbau einer neongefüllten Franck-Hertz-Röhre. Die Beschreibung des Aufbaus und der Abkürzungen erfolgt im Text. [Quelle: [Herbert Schletter](https://commons.wikimedia.org/wiki/User:HerrvomDorf) (derived from a work by [Sebastian Wagner](https://commons.wikimedia.org/wiki/User:RealSebix)), [FH Röhre Ne](https://commons.wikimedia.org/wiki/File:FH_Röhre_Ne.svg), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/legalcode) via Wikimedia Commons]")
+
+Gemessen wird im Franck-Hertz-Versuch der an der Auffängerelektrode ankommende
+Elektronenstrom $I_\mathrm E$ als Funktion der Beschleunigungsspannung
+$U_\mathrm B$.
+
+#### Diskussion
+
+In der nachfolgenden Abbildung ist exemplarisch eine Messkurve gezeigt, die mit
+dem in der Vorlesung gesezigten Franck-Hertz-Aufbau aufgenommen wurde.
+Die einzelnen Abschnitte (im Bild durch die Zahlen 1 bis 5 markiert) dieser
+$I_\mathrm E (U_\mathrm B )$-Abhängigkeit lassen sich unter Anwendung des
+Atommodells und der Gesetze der Elektrizitätslehre erklären.
+
+![Messkurve einer Franck-Hertz-Röhre.](grafik/V15_FH-kurve.png "Messkurve $I_\mathrm E (U_\mathrm B)$ einer neongefüllten Franck-Hertz-Röhre. Die Erläuterung der Abschnitte 1 bis 5 erfolgt im Text.")<!-- style="width:12cm;" -->
+
+1.  Solange die Beschleunigungsspannung kleiner ist als die Gegenspannung
+    ($U_\mathrm B < U_\mathrm G$), werden die Elektronen vor Erreichen der
+    Auffängerelektrode vollständig abgebremst. Folglich wird an dieser kein
+    Strom gemessen. In der Messkurve in obiger Abbildung zeigt sich an dieser
+    Stelle ein Offset des Messstroms, der durch geeignete Kalibrierung der
+    Messapparatur behoben werden könnte. Da dieser Offset jedoch für die gesamte
+    Messung konstant ist, beeinflusst er die weitere Diskussion nicht.
+
+2.  Sobald die Beschleunigungsspannung die Gegenspannung übersteigt, erreichen
+    die Elektronen die Auffängerelektrode und es wird ein Strom gemessen. Mit
+    zunehmender Beschleunigungsspannung wächst dieser Strom an, da die
+    kinetische Energie der Elektronen zunimmt.
+
+3.  Oberhalb einer gewissen Beschleunigungsspannung nimmt der Auffängerstrom ab.
+    Dieser Effekt entsteht durch Anregung der Neonatome: Die Atome nehmen
+    Energie der beschleunigten Elektronen auf, sodass innerhalb der Atome
+    gebundene Elektronen in ein höheres Energieniveau übergehen können. Aufgrund
+    der diskreten Energieniveaus kann diese Anregung erst stattfinden, wenn die
+    kinetische Energie der beschleunigten Elektronen die erforderliche
+    Energiedifferenz der Niveaus übersteigt. Gleichzeitig ist in der Röhre ein
+    orange-rotes Leuchten erkennbar (siehe obere Abbildung), das durch die
+    Rückkehr der angeregten Elektronen in ihren Ausgangszustand entsteht. Diese
+    Leucht- oder Anregungszone entsteht zunächst unmittelbar vor der Anode, da
+    erst dort die beschleunigten Elektronen eine ausreichend hohe Energie
+    erreichen.
+
+4.  Bei weiterer Erhöhung der Beschleunigungsspannung wandert die Anregungszone
+    in Richtung Kathode, da die beschleunigten Elektronen bereits früher die zur
+    Anregung erfoderliche Energie besitzen. Nach dieser Energieabgabe werden die
+    Elektronen weiter zur Anode hin beschleunigt, sodass der an der
+    Auffängerelektrode gemessene Strom wieder ansteigt.
+
+5.  Bei ausreichend hoher Beschleunigungsspannung erhalten die Elektronen nach
+    der ersten Energieabgabe wieder die zur Anregung der Neon-Atome
+    erforderliche Energie. So entsteht unmittelbar vor der Anode eine zweite
+    Anregungszone, in der die beschleunigten Elektronen Energie abgeben. In der
+    Folge nimmt der Auffängerstrom wiederum ab. Bei weiterer Erhöhung von
+    $U_\mathrm B$ wandern beide Anregungszonen in Richtung Kathode. Durch die
+    weitere Beschleunigung der Elektronen nach der zweiten Anregungszone steigt
+    der Auffängerstrom wieder an. Eine dritte Anregungszone entsteht, wenn nach
+    zweimaliger Anregung der Neon-Atome die Elektronen wiederum auf die
+    erforderliche Anregungsenergie beschleunigt werden. Dabei zeigt der
+    Auffängerstrom ein drittes Minimum. Insgesamt sind dann drei Anregungszonen
+    mit ihrem orange-roten Leuchten in der Röhre erkennbar (wie in der oberen
+    Abbildung gezeigt).
+
+In einer neongefüllten Franck-Hertz-Röhre treten die Minima des Auffängerstroms
+in Abständen von $\Delta U_\mathrm B =19~\mathrm V$ auf. Dies entspricht der
+Energiedifferenz der für die Anregung relevanten Energieniveaus
+$\Delta E = 19~\mathrm{eV}$. Die Rückkehr in den Ausgangszustand erfolgt
+stufenweise über mehrere Energieniveaus, wobei nur einer der beteiligten
+Übergänge das charakteristische orange-rote Licht emittiert.
