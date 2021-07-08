@@ -366,6 +366,22 @@ Gemessen wird im Franck-Hertz-Versuch der an der Auffängerelektrode ankommende
 Elektronenstrom $I_\mathrm E$ als Funktion der Beschleunigungsspannung
 $U_\mathrm B$.
 
+#### Ergebnisse vom 08.07 2021
+
+In der Vorlesung „Physik“ wurde am 08.07.2021 folgende Franck-Hertz-Kurve an
+Neon gemessen:
+
+![Franck-Hertz-Kurve an Neon, gemessen am 08.07.2021](grafik/franck-hertz_2021-07-08.png)
+
+Dargestellt ist der Strom $I_\mathrm E$ an der Auffängerelektrode (in
+willkürlichen  Einheiten) als Funktion der Beschleunigungsspannung $U_\mathrm A$.
+
+Das Plateau des gemessenen Stroms bei $U_\mathrm A \gt 75~\mathrm V$ entstand
+durch eine Sättigung des Messverstärkers. Die kleinen vertikalen Versatze in der
+Messkurve entstanden, als die Beschleunigungsspannung konstant gehalten wurde
+(um einen Sachverhalt in der Durchführung zu erklären), die Emission der Kathode
+sich jedoch veränderte.
+
 #### Diskussion
 
 In der nachfolgenden Abbildung ist exemplarisch eine Messkurve gezeigt, die mit
