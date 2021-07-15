@@ -215,6 +215,24 @@ II“ am 11.06.2021 wurden folgende Werte für diesen Versuch bestimmt:
 
 Daraus ergibt sich ein Brechungsindex von $n_\mathrm W = 1{,}36$.
 
+### Äußerer Photoeffekt
+
+Der äußere Photoeffekt gehört zu den grundlegenden Experimenten, die zu Beginn
+des 20. Jahrhunderts zur Herausbildung der Quantenoptik geführt haben. Er
+besteht in der Freisetzung von Elektronen aus einer leitfähigen Schicht durch
+die Bestrahlung mit Licht.
+
+Die Ergebnisse dieses Effekts stehen in einem grundsätzlichen Widerspruch
+zur Wellenbeschreibung des Lichts, weswegen dieses Phänomen nach seiner
+Entdeckung im 19. Jahrhundert über Jahre hinweg
+unerklärt blieb. Schließlich war es Albert Einstein, der im Jahr 1905 eine
+Erklärung lieferte (und hierfür später den Nobelpreis für
+Physik erhielt). Er nutzte dabei die bereits zuvor von Max Planck aufgestellte
+Annahme, dass das Licht nur definierte „Energieportionen“ (sogenannte Quanten)
+übertragen kann.
+
+#### Durchführung
+
 ### Einzelphotoneninterferenz
 
 Das Licht ist ein Quantenphänomen, das die Eigenschaften einer Welle und eines
@@ -232,7 +250,7 @@ Welleneigenschaften (verkörpert eben durch eine Lichtwelle) und
 Teilcheneigenschaften (verkörpert durch das Photon) ist dabei nicht möglich.
 Auch das einzelne Photon trägt den vollständigen Wellencharakter des Lichts in
 sich. Verdeutlicht wird dies im Vorlesungsexperiment durch den Nachweis der
-Interferenz einzelnen Photonen.
+Interferenz einzelner Photonen.
 
 #### Durchführung
 Durchgeführt wird dieser Versuch mit dem Komplettaufbau „Two-Slit Interference,
@@ -302,6 +320,26 @@ Photonenzahlen registriert:
 | links         | 343                   |
 | beide         | 48                    |
 | rechts        | 202                   |
+
+#### Ergebnisse vom 15.07.2021
+In der Vorlesung „Physik“ am 15. Juli 2021 wurden folgende Photonenzahlen
+registriert:
+
+*  Detektorposition I
+
+| offene Spalte | registrierte Photonen |
+| ------------- | ---------------------:|
+| links         | 1098                  |
+| beide         | 3278                  |
+| rechts        | 950                   |
+
+*  Detektorposition II
+
+| offene Spalte | registrierte Photonen |
+| ------------- | ---------------------:|
+| links         | 1021                  |
+| beide         | 441                   |
+| rechts        | 980                   |
 
 #### Diskussion
 Die Messergebnisse zeigen ein grundlegend unterschiedliches Verhalten an den
